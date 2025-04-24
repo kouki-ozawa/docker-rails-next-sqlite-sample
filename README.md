@@ -1,3 +1,6 @@
+## 概要
+下記構成の開発環境をdockerで構築できます。
+
 ## 構成
 
 - **backend**: Ruby on Rails + SQLite  
